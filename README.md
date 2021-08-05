@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Github Issue Tracker for Rotunda
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project includes an issue tracker, pointing to a public organization and repository created by Venecia Lopez for testing purposes.
 
 ## Available Scripts
 
